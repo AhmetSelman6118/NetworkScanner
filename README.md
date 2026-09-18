@@ -1,0 +1,1 @@
+This is a network scanner code without UI, you can take this and add UI too. This Python script uses the Scapy library to perform ARP scans on a specified IP address or range to discover active hosts and their corresponding MAC addresses on a local network. It also includes functionality to identify the default gateway and attempts to resolve hostnames for discovered devices.
